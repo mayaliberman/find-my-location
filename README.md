@@ -25,6 +25,10 @@ export {IPdataAPIKey, GoogleAPIKey};
 
 ## Available Scripts
 
+### `npm install`
+
+Install all the dependencies on your npm library.
+
 In the project directory, you can run:
 
 ### `npm start`
