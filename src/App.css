@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #3f4850;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 52px 0 40px;
+  text-transform: capitalize;
+  color: purple;
+}
